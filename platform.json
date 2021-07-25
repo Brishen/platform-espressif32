@@ -81,7 +81,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/espressif/arduino-esp32.git#2.0.0-rc1"
+      "version": "https://github.com/Brishen/arduino-esp32.git#revert-xtensa"
     },
     "framework-arduino-mbcwb": {
       "type": "framework",
