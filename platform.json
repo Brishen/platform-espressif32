@@ -57,7 +57,7 @@
       "type": "toolchain",
       "optional": true,
       "owner": "platformio",
-      "version": "~1.80400.0"
+      "version": "~1.80500.0"
     },
     "toolchain-esp32ulp": {
       "type": "toolchain",
